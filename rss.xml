@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smartificial Intelligence]]></title>
+        <description><![CDATA[Smartificial Intelligence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 23:23:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Minecraft Is A Perfect Place For Artificial Intelligence - ARC]]></title>
+            <description><![CDATA[<article><h1>Why Minecraft Is A Perfect Place For Artificial Intelligence - ARC</h1><p>Project Malmo is a building block for the future. Millions of people use the world of Minecraft to bring their 3D visions to life, but Microsoft wants to take the creative utopia to the next level. A blog post by Minecraft's developers Mojang said that Microsoft's Project Malmo platform is now open to the public.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed2b44c1329d729d0cb3963408cef601/croprotate.png?cropheight=946&cropwidth=1890&degrees=0&input=https%3A%2F%2Farc.applause.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fminecraft.png&x=0&y=0"></article>]]></description>
+            <link>https://arc.applause.com/2016/07/08/project-malmo-minecraft-ai-microsoft/</link>
+            <guid isPermaLink="false">c40fca6e-b20f-4f0e-ae58-b04a95955dc7</guid>
+            <pubDate>Sat, 09 Jul 2016 23:23:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
